@@ -1,0 +1,16 @@
+{
+  "slug": "addoncontrolpanel",
+  "title": "ACP - Addon Control Panel",
+  "description": "ACP adds the 'Addons' button to the game's main menu (The one you get when you hit ESC). It allows you to manage your addons in game.",
+  "author": "lucifercatnip",
+  "version": "3.3.5",
+  "gameVersion": "3.3.5",
+  "logo": "logo.webp",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

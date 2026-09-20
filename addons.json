@@ -1,5 +1,24 @@
 [
   {
+    "slug": "addoncontrolpanel",
+    "title": "ACP - Addon Control Panel",
+    "description": "ACP adds the 'Addons' button to the game's main menu (The one you get when you hit ESC). It allows you to manage your addons in game.",
+    "author": "lucifercatnip",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/addoncontrolpanel/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/addoncontrolpanel",
+    "version": "3.3.5",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-20",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/addoncontrolpanel/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/addoncontrolpanel/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
     "slug": "skada",
     "title": "Skada",
     "description": "Skada is a modular damage meter.",
