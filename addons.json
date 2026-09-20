@@ -38,6 +38,25 @@
     }
   },
   {
+    "slug": "atlasloot_faebright",
+    "title": "Atlasloot",
+    "description": "AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed whenever needed within the game.   Slash Commands /al or /atlasloot by itself brings up the loot browser.",
+    "author": "Thorin",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/atlasloot_faebright/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/atlasloot_faebright",
+    "version": "1.3.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-20",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/atlasloot_faebright/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/atlasloot_faebright/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
     "slug": "skada",
     "title": "Skada",
     "description": "Skada is a modular damage meter.",
