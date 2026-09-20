@@ -1,0 +1,16 @@
+{
+  "slug": "skada",
+  "title": "Skada",
+  "description": "Skada is a modular damage meter.",
+  "author": "zarnivoop",
+  "version": "1.8.87",
+  "gameVersion": "3.3.5",
+  "logo": "logo.webp",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

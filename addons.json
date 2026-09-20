@@ -1,0 +1,21 @@
+[
+  {
+    "slug": "skada",
+    "title": "Skada",
+    "description": "Skada is a modular damage meter.",
+    "author": "zarnivoop",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/skada/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/skada",
+    "version": "1.8.87",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-20",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/skada/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/skada/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  }
+]
