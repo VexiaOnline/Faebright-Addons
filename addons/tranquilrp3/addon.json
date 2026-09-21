@@ -1,0 +1,16 @@
+{
+  "slug": "tranquilrp3",
+  "title": "TranquilRP3",
+  "description": "TranquilRP3 is a TotalRP3 compatible addon roleplay addon for maintaining character profiles, info, as well as other roleplay tools.",
+  "author": "takoy",
+  "version": "0.7.3",
+  "gameVersion": "3.3.5",
+  "logo": "logo.png",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

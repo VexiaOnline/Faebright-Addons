@@ -304,6 +304,25 @@
     }
   },
   {
+    "slug": "tranquilrp3",
+    "title": "TranquilRP3",
+    "description": "TranquilRP3 is a TotalRP3 compatible addon roleplay addon for maintaining character profiles, info, as well as other roleplay tools.",
+    "author": "takoy",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/tranquilrp3/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/tranquilrp3",
+    "version": "0.7.3",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/tranquilrp3/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/tranquilrp3/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
     "slug": "vuhdo",
     "title": "VuhDo",
     "description": "VuhDo is a raid monitor similar to CTRaidAssist or Blizzards built-in raid frames. Basically this is about displaying the health of raid members in form of clearly arranged bars. VuhDo is primarily directed to healing classes, but will make use to almost any other class. Moreover several healing spells or other actions can be asserted to mouse clicks on those bars (Click-Heal).",
