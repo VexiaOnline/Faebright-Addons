@@ -95,6 +95,25 @@
     }
   },
   {
+    "slug": "gtfo",
+    "title": "GTFO",
+    "description": "GTFO provides an audible alert when you’re standing in something you’re not supposed to be standing in. In some cases, you’ll be warned before you start taking damage. This mod improves your situational awareness and is recommended for dungeon divers and raiders of all skill levels as even the most seasoned veteran sometimes needs a reminder to GTFO.",
+    "author": "Zensunim",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/gtfo/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/gtfo",
+    "version": "2.5.3",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/gtfo/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/gtfo/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
     "slug": "immersion",
     "title": "Immersion",
     "description": "Immersion is a replacement for the dated quest & gossip frames. Hugely inspired by the talking head frame, Immersion is a no-nonsense solution to the wall of quest text you never read, without hindering your progress. Skip ahead, accept quests and select dialogue options with the press of a single button or simply click anywhere on the frame to pick up the next quest. All your hotkeys are customizable and you can even use number keys to press specific gossip/quest options.",
@@ -185,6 +204,25 @@
     "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/pallypower/3.3.5.zip",
     "downloads": {
       "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/pallypower/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "questie",
+    "title": "Questie",
+    "description": "A quest helper for World of Warcraft Wrath of the Lich King.",
+    "author": "Aldori15",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/questie/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/questie",
+    "version": "9.8.8",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/questie/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/questie/3.3.5.zip",
       "tbc": null,
       "classic": null
     }

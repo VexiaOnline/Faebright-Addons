@@ -1,0 +1,16 @@
+{
+  "slug": "gtfo",
+  "title": "GTFO",
+  "description": "GTFO provides an audible alert when you’re standing in something you’re not supposed to be standing in. In some cases, you’ll be warned before you start taking damage. This mod improves your situational awareness and is recommended for dungeon divers and raiders of all skill levels as even the most seasoned veteran sometimes needs a reminder to GTFO.",
+  "author": "Zensunim",
+  "version": "2.5.3",
+  "gameVersion": "3.3.5",
+  "logo": "",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}
