@@ -97,7 +97,7 @@
   {
     "slug": "faebrightwho",
     "title": "FaebrightWho",
-    "description": "ver wanted to see who was actually online not counting clankers? Simply drop in FaebrightWho to your addon folder and it will take over the /who command and have a minimap button. You can have it do a full scan to find all players and specify by excluding certain guilds, levels, classes, races (looking at you gnomes) and display all information on the page!",
+    "description": "Ever wanted to see who was actually online not counting clankers? Simply drop in FaebrightWho to your addon folder and it will take over the /who command and have a minimap button. You can have it do a full scan to find all players and specify by excluding certain guilds, levels, classes, races (looking at you gnomes) and display all information on the page!",
     "author": "Calisson",
     "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/faebrightwho/logo.png",
     "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/faebrightwho",
