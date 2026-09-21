@@ -228,6 +228,25 @@
     }
   },
   {
+    "slug": "rofaetion",
+    "title": "Roefation",
+    "description": "Rofaetion tries to optimize DPS output for all classes. It advises what spell you should cast next in your rotation.",
+    "author": "Faebright",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/rofaetion/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/rofaetion",
+    "version": "1.0.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/rofaetion/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/rofaetion/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
     "slug": "skada",
     "title": "Skada",
     "description": "Skada is a modular damage meter.",

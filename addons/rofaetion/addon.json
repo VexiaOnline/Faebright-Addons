@@ -1,0 +1,16 @@
+{
+  "slug": "rofaetion",
+  "title": "Roefation",
+  "description": "Rofaetion tries to optimize DPS output for all classes. It advises what spell you should cast next in your rotation.",
+  "author": "Faebright",
+  "version": "1.0.0",
+  "gameVersion": "3.3.5",
+  "logo": "logo.png",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}
