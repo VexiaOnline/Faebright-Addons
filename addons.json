@@ -95,6 +95,25 @@
     }
   },
   {
+    "slug": "faebrightwho",
+    "title": "FaebrightWho",
+    "description": "ver wanted to see who was actually online not counting clankers? Simply drop in FaebrightWho to your addon folder and it will take over the /who command and have a minimap button. You can have it do a full scan to find all players and specify by excluding certain guilds, levels, classes, races (looking at you gnomes) and display all information on the page!",
+    "author": "Calisson",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/faebrightwho/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/faebrightwho",
+    "version": "1.0.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/faebrightwho/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/faebrightwho/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
     "slug": "gtfo",
     "title": "GTFO",
     "description": "GTFO provides an audible alert when you’re standing in something you’re not supposed to be standing in. In some cases, you’ll be warned before you start taking damage. This mod improves your situational awareness and is recommended for dungeon divers and raiders of all skill levels as even the most seasoned veteran sometimes needs a reminder to GTFO.",
