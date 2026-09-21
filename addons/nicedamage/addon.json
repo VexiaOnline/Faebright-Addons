@@ -1,0 +1,16 @@
+{
+  "slug": "nicedamage",
+  "title": "Nice Damage",
+  "description": "Changes your damage font to something more festive.",
+  "author": "Montyburns",
+  "version": "1.0.0",
+  "gameVersion": "3.3.5",
+  "logo": "logo.webp",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "pallypower",
+  "title": "Pally Power",
+  "description": "This add-on provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator. While in a Party or RAID Pally Power can be used to assign blessings to other Paladins. Including Blessing of Light for Faebright.",
+  "author": "Aznamir / Faebright",
+  "version": "3.2.21",
+  "gameVersion": "3.3.5",
+  "logo": "logo.png",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

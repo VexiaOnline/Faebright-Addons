@@ -1,0 +1,16 @@
+{
+  "slug": "immersion",
+  "title": "Immersion",
+  "description": "Immersion is a replacement for the dated quest & gossip frames. Hugely inspired by the talking head frame, Immersion is a no-nonsense solution to the wall of quest text you never read, without hindering your progress. Skip ahead, accept quests and select dialogue options with the press of a single button or simply click anywhere on the frame to pick up the next quest. All your hotkeys are customizable and you can even use number keys to press specific gossip/quest options.",
+  "author": "leoaviana",
+  "version": "1.4.14",
+  "gameVersion": "3.3.5",
+  "logo": "logo.jpg",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

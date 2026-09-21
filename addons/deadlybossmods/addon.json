@@ -1,0 +1,16 @@
+{
+  "slug": "deadlybossmods",
+  "title": "DBM - Deadly Boss Mods",
+  "description": "DeadlyBossMods is an addon that alerts you when a Boss begins to cast certain spells or use certain skills, allowing you to move, counter, stop damage, run away, etc.",
+  "author": "Zidras",
+  "version": "10.1.13",
+  "gameVersion": "3.3.5",
+  "logo": "logo.png",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}

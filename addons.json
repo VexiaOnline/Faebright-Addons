@@ -10,7 +10,7 @@
     "gameVersion": "3.3.5",
     "downloadCount": 0,
     "lastUpdate": "2026-09-19",
-    "uploadDate": "2026-09-20",
+    "uploadDate": "2026-09-21",
     "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/addoncontrolpanel/3.3.5.zip",
     "downloads": {
       "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/addoncontrolpanel/3.3.5.zip",
@@ -29,7 +29,7 @@
     "gameVersion": "3.3.5",
     "downloadCount": 0,
     "lastUpdate": "2026-09-19",
-    "uploadDate": "2026-09-20",
+    "uploadDate": "2026-09-21",
     "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/arcanum/3.3.5.zip",
     "downloads": {
       "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/arcanum/3.3.5.zip",
@@ -48,10 +48,143 @@
     "gameVersion": "3.3.5",
     "downloadCount": 0,
     "lastUpdate": "2026-09-19",
-    "uploadDate": "2026-09-20",
+    "uploadDate": "2026-09-21",
     "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/atlasloot_faebright/3.3.5.zip",
     "downloads": {
       "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/atlasloot_faebright/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "clique",
+    "title": "Clique",
+    "description": "Clique is a simple addon that enables powerful click-casting and hover-casting on your unit frames and in the 3D game world. You can bind virtually any mouse or keyboard combination to a spell or macro. In it's normal configuration this enables you to use the bindings over your unit frames in order to cast spells directly on that unit. This allows you to more quickly select both the spell to cast, and the target of the spell without requiring an extra click.",
+    "author": "Tsoukie",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/clique/logo.jpg",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/clique",
+    "version": "1.7.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/clique/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/clique/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "deadlybossmods",
+    "title": "DBM - Deadly Boss Mods",
+    "description": "DeadlyBossMods is an addon that alerts you when a Boss begins to cast certain spells or use certain skills, allowing you to move, counter, stop damage, run away, etc.",
+    "author": "Zidras",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/deadlybossmods/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/deadlybossmods",
+    "version": "10.1.13",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/deadlybossmods/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/deadlybossmods/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "immersion",
+    "title": "Immersion",
+    "description": "Immersion is a replacement for the dated quest & gossip frames. Hugely inspired by the talking head frame, Immersion is a no-nonsense solution to the wall of quest text you never read, without hindering your progress. Skip ahead, accept quests and select dialogue options with the press of a single button or simply click anywhere on the frame to pick up the next quest. All your hotkeys are customizable and you can even use number keys to press specific gossip/quest options.",
+    "author": "leoaviana",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/immersion/logo.jpg",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/immersion",
+    "version": "1.4.14",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/immersion/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/immersion/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "minimapbuttonbag",
+    "title": "MBB - Minimap Button Bag",
+    "description": "MBB reduces minimap buttons and makes them accessible through a pop out menu. Click the MBB button to expand the menu and display the buttons. Each button that is collapsed into the menu can be reattached to the minimap with Ctrl + Right Click. The MBB button can also be detached from minimap with Ctrl + Right Click.",
+    "author": "VallanTV",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/minimapbuttonbag/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/minimapbuttonbag",
+    "version": "0.0.63",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/minimapbuttonbag/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/minimapbuttonbag/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "necrosis",
+    "title": "Necrosis",
+    "description": "Arcanum is an addon that helps mages with managing their buffs, portals and more.",
+    "author": "Arpharazon",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/necrosis/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/necrosis",
+    "version": "3.0.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/necrosis/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/necrosis/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "nicedamage",
+    "title": "Nice Damage",
+    "description": "Changes your damage font to something more festive.",
+    "author": "Montyburns",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/nicedamage/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/nicedamage",
+    "version": "1.0.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/nicedamage/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/nicedamage/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "pallypower",
+    "title": "Pally Power",
+    "description": "This add-on provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator. While in a Party or RAID Pally Power can be used to assign blessings to other Paladins. Including Blessing of Light for Faebright.",
+    "author": "Aznamir / Faebright",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/pallypower/logo.png",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/pallypower",
+    "version": "3.2.21",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/pallypower/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/pallypower/3.3.5.zip",
       "tbc": null,
       "classic": null
     }
@@ -67,10 +200,48 @@
     "gameVersion": "3.3.5",
     "downloadCount": 0,
     "lastUpdate": "2026-09-19",
-    "uploadDate": "2026-09-20",
+    "uploadDate": "2026-09-21",
     "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/skada/3.3.5.zip",
     "downloads": {
       "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/skada/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "stubby",
+    "title": "Stubby",
+    "description": "A dependency for a lot of other addons.",
+    "author": "Faebright",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/stubby/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/stubby",
+    "version": "1.0.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/stubby/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/stubby/3.3.5.zip",
+      "tbc": null,
+      "classic": null
+    }
+  },
+  {
+    "slug": "vuhdo",
+    "title": "VuhDo",
+    "description": "VuhDo is a raid monitor similar to CTRaidAssist or Blizzards built-in raid frames. Basically this is about displaying the health of raid members in form of clearly arranged bars. VuhDo is primarily directed to healing classes, but will make use to almost any other class. Moreover several healing spells or other actions can be asserted to mouse clicks on those bars (Click-Heal).",
+    "author": "Iza",
+    "image": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/vuhdo/logo.webp",
+    "detailUrl": "https://github.com/VexiaOnline/Faebright-Addons/tree/main/addons/vuhdo",
+    "version": "2.23.0",
+    "gameVersion": "3.3.5",
+    "downloadCount": 0,
+    "lastUpdate": "2026-09-19",
+    "uploadDate": "2026-09-21",
+    "downloadUrl": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/vuhdo/3.3.5.zip",
+    "downloads": {
+      "wotlk": "https://raw.githubusercontent.com/VexiaOnline/Faebright-Addons/main/addons/vuhdo/3.3.5.zip",
       "tbc": null,
       "classic": null
     }

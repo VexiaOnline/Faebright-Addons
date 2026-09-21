@@ -1,0 +1,16 @@
+{
+  "slug": "minimapbuttonbag",
+  "title": "MBB - Minimap Button Bag",
+  "description": "MBB reduces minimap buttons and makes them accessible through a pop out menu. Click the MBB button to expand the menu and display the buttons. Each button that is collapsed into the menu can be reattached to the minimap with Ctrl + Right Click. The MBB button can also be detached from minimap with Ctrl + Right Click.",
+  "author": "VallanTV",
+  "version": "0.0.63",
+  "gameVersion": "3.3.5",
+  "logo": "logo.png",
+  "downloadCount": 0,
+  "lastUpdate": "2026-09-19",
+  "downloads": {
+    "wotlk": "3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  }
+}
